@@ -41,7 +41,7 @@
     "typescript": "^5.4.2"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.20.5",
+    "@anthropic-ai/sdk": "^0.24.3",
     "@brillout/import": "^0.2.2",
     "@bull-board/api": "^5.14.2",
     "@bull-board/express": "^5.8.0",
