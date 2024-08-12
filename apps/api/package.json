@@ -48,7 +48,7 @@
     "@devil7softwares/pos": "^1.0.2",
     "@dqbd/tiktoken": "^1.0.13",
     "@logtail/node": "^0.4.12",
-    "@nangohq/node": "^0.36.33",
+    "@nangohq/node": "^0.42.1",
     "@sentry/node": "^7.48.0",
     "@supabase/supabase-js": "^2.7.1",
     "ajv": "^8.12.0",
